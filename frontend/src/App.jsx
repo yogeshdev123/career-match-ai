@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://career-match-ai-backend-x1jp.onrender.com";
 
 function App() {
   const [jobs, setJobs] = useState([]);
