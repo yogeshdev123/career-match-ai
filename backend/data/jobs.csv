@@ -1,0 +1,11 @@
+Job ID,Job Title,Required Skills,Job Description
+J001,Java Developer,Java; Spring Boot; SQL; REST APIs; Git; Hibernate,Backend application development
+J002,Frontend Developer,JavaScript; React.js; HTML; CSS; Redux; REST APIs,Frontend web application development
+J003,Full Stack Developer,JavaScript; React.js; Node.js; Express.js; SQL; REST APIs,Full stack application development
+J004,Python Developer,Python; Django; Flask; SQL; REST APIs; Git,Python application and backend development
+J005,RPA Developer,UiPath; Power Automate; VB.NET; Excel VBA; SQL; Orchestrator,Robotic process automation and workflow development
+J006,AI Engineer,Python; Machine Learning; LLMs; RAG; LangChain; REST APIs,AI-powered application development
+J007,Data Analyst,SQL; Python; Excel; Power BI; Statistics; Data Visualization,Data analysis and business intelligence
+J008,DevOps Engineer,Linux; Docker; Kubernetes; Jenkins; AWS; CI/CD,Infrastructure automation and deployment
+J009,QA Automation Engineer,Selenium; Java; Python; API Testing; SQL; TestNG,Automated software testing
+J010,Cloud Engineer,AWS; Azure; Linux; Docker; Networking; Terraform,Cloud infrastructure and services
